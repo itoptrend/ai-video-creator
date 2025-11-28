@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+openai
+gTTS
+moviepy
+requests
+Pillow
+numpy

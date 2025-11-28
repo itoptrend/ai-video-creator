@@ -6,3 +6,5 @@ moviepy
 requests
 Pillow
 numpy
+imageio
+imageio-ffmpeg

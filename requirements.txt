@@ -2,7 +2,7 @@ streamlit
 google-generativeai
 openai
 gTTS
-moviepy
+moviepy==1.0.3
 requests
 Pillow
 numpy
